@@ -219,7 +219,7 @@ int main(int argc, char **argv)
 //       Thus far, there is a coordinate array in which each atom is       //
 //       characterized by three elements, a type array that describes      //
 //       each particle based on whether it is a boron or hydrogen, a       //
-//       charge array that assigns each particle a charge, and a mass     //
+//       charge array that assigns each particle a charge, a mass          //
 //       array that assigns each particle a mass, and velocity arrays      //
 //       that store the velocities of each particle                        //
     
